@@ -3,7 +3,7 @@ Code used in project researching a hybrid of EMNA-TC with machine learning model
 
 This was a project at the Redacted conducted by: Anonymized authors. 
 
-This project was done as part of a Research Project course (Redacted), for marks, from the Redacted.
+This project was done as part of a Research Project course (Redacted), for marks, from the Redacted, as well as for WCCI 2022.
 
 For this code, the models included involve Scikit-Learn model types [1] and TensorFlow Keras models [2,3].
 

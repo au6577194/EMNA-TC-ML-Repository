@@ -1,4 +1,4 @@
-# EMNA-TC-ML-Repository
+# EMNA-TC-ML-Hybrids
 Code used in project researching a hybrid of EMNA-TC with machine learning models
 
 This was a project at the Redacted conducted by: Anonymized authors. 

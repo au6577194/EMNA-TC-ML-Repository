@@ -9,6 +9,8 @@ For this code, the models included involve Scikit-Learn model types [1] and Tens
 
 Strategies for building these were learned in the process of this project through Pluralsight courses [4,5].
 
+There is more information (all accuracies, precisions, recall scores, and class usage for all models accorss all variants as well as all accuracies and relative difference (from EMNA-TC) for each of the model types used in the hybridization step). This can be found in the file generalInfo.xlsx
+
 References:
 
 [1] Fabian Pedregosa, Ga ̈el Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, VincentDubourg, et al. Scikit-learn: Machine learning in python. Journal of machine learning research, 12 (Oct):2825–2830, 2011.

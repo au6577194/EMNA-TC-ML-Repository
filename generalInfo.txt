@@ -23,6 +23,7 @@ EMNA-TC-ML:
 Models:
     In Variants models are created and named numerically, rather than by
     model type. Models 1, 5, 7, 14, 15, 18, 21, 22 are used in EMNA-TC-ML 
+    They were manually renamed. Examples: model_DT_org.p , model_DT_v1_p1.p , tf4_v3_11p
         1: Logistic Regression ('sag', 10000 interation)
         2: Logistic Regression ('sag', 100000 interation)
         3: Logistic Regression ('sag', 1000000 interation)

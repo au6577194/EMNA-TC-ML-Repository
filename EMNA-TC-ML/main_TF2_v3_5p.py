@@ -22,7 +22,7 @@ dim = 30
 max_evals = 10_000 * dim
 cec_benchmark = functions.CEC_functions(dim)
 popsize = 1000
-model = "models/tf2_v3_5p"
+model = "models/tf4_v3_5p"
 
 #results = OptResults()
 runs = 30
@@ -40,7 +40,7 @@ for run in range(runs):
             thresholds[fun_num - 1].append(threshold)
         print(f"Run: {run}, EMNA-TC-ML Function {fun_num}, pop {popsize}, result: {(best_f - fDeltas[fun_num - 1]):.2E}")
 
-pickle.dump(fits, open("pickles/results_TF2_v3_5p_fits.p", "wb"), protocol=4)
-pickle.dump(thresholds, open("pickles/results_TF2_v3_5p_thresholds.p", "wb"), protocol=4)
+pickle.dump(fits, open("pickles/results_TF4_v3_5p_fits.p", "wb"), protocol=4)
+pickle.dump(thresholds, open("pickles/results_TF4_v3_5p_thresholds.p", "wb"), protocol=4)
 print('fitnesses:')
 print(fits)

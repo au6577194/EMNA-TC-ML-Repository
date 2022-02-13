@@ -42,7 +42,7 @@ Models:
         17: Linear SVC (C=1.0, max_iter=10000, tol=1e-3, multi_class='crammer_singer')
         18: K-Nearest Neighbors (n_neighbors=20)
         19: Keras-Sequential. 3 layers outputs(64,32,9) CategoricalCrossentropy loss, SGD (lr=0.1)
-        19: Keras-Sequential. 3 layers outputs(64 - sigmoid actvation,32,9) CategoricalCrossentropy loss, Adam (lr=0.1)
-        19: Keras-Sequential. 5 layers outputs(64 - relu actvation, dropout 0.1, 32, Dropout 0.1, ,9 - sigmoid actvation) CategoricalCrossentropy loss, SGD (lr=0.1)
-        19: Keras-Sequential. 3 layers outputs(256 - relu,128,9 - softmax) CategoricalCrossentropy loss, Adam (lr=0.1)
+        20: Keras-Sequential. 3 layers outputs(64 - sigmoid actvation,32,9) CategoricalCrossentropy loss, Adam (lr=0.1)
+        21: Keras-Sequential. 5 layers outputs(64 - relu actvation, dropout 0.1, 32, Dropout 0.1, ,9 - sigmoid actvation) CategoricalCrossentropy loss, SGD (lr=0.1)
+        22: Keras-Sequential. 3 layers outputs(256 - relu,128,9 - softmax) CategoricalCrossentropy loss, Adam (lr=0.1)
 
